@@ -1,4 +1,4 @@
-# Analysis-of-Los-Angeles-Crime-Data
+# Analysis of Los Angeles Crime Data
 
 ## **Project Overview**  
 This project explores crime patterns in Los Angeles by integrating crime data with information from businesses and schools. The goal is to identify high, medium, and low crime zones, analyze crime trends over time, and assess the impact on essential services and community well-being. The insights from this analysis aim to enhance security, guide safer living choices, and assist businesses in selecting optimal locations.  
